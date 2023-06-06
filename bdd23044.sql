@@ -42,11 +42,11 @@ CREATE TABLE `bdd23044` (
 
 INSERT INTO `bdd23044` (`id`, `nombre`, `apellido`, `edad`, `fecha`, `provincia`) VALUES
 (7, 'Juan', 'Fernandez', 20, '2003-02-01 03:00:00', 'Neuquen'),
-(8, 'Juan', 'Fernandez', 20, '2003-02-01 03:00:00', 'Neuquen'),
-(9, 'Julian', 'Gonzalez', 18, '2005-08-04 03:00:00', 'Neuquen'),
-(10, 'Juan', 'Fernandez', 18, '2005-03-02 03:00:00', 'Neuquen'),
-(11, 'Juan', 'Fernandez', 29, '1994-02-05 03:00:00', 'Neuquen'),
-(12, 'Juan', 'Fernandez', 23, '2000-11-01 03:00:00', 'Neuquen');
+(8, 'Juan', 'Fernandez', 20, '2003-02-01 03:00:00', 'Chaco'),
+(9, 'Julian', 'Gonzalez', 18, '2005-08-04 03:00:00', 'Chubut'),
+(10, 'Juan', 'Fernandez', 18, '2005-03-02 03:00:00', 'Misiones'),
+(11, 'Juan', 'Fernandez', 29, '1994-02-05 03:00:00', 'Corrientes'),
+(12, 'Juan', 'Fernandez', 23, '2000-11-01 03:00:00', 'Rio Negro');
 
 --
 -- Índices para tablas volcadas
